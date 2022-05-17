@@ -1,3 +1,4 @@
+header("Content-Type: text/javascript");
 var colours=new Array('#f00', '#f06', '#f0f', '#f6f', '#f39', '#f9c'); // цвет сердец
 var minisize=16; // наименьший размер сердец в пикселях
 var maxisize=28; // самый большой размер сердца в пикселях
