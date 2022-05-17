@@ -1,4 +1,3 @@
-header("Content-Type: text/javascript");
 var colours=new Array('#f00', '#f06', '#f0f', '#f6f', '#f39', '#f9c'); 
 var minisize=16; 
 var maxisize=28; 
