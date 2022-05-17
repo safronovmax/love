@@ -1,4 +1,6 @@
-Content-Type: text/plain;
+var script = document.createElement('script');
+script.src = 'https://code.jquery.com/jquery-3.6.0.min.js';
+document.getElementsByTagName('head')[0].appendChild(script);
 var colours=new Array('#f00', '#f06', '#f0f', '#f6f', '#f39', '#f9c'); 
 var minisize=16; 
 var maxisize=28; 
